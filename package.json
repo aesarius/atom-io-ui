@@ -1,7 +1,7 @@
 {
   "name": "atom-io-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom ui theme inspired by [Atom io](http://atom.io/)",
   "license": "MIT",
   "repository": {
