@@ -6,14 +6,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/aesarius/atom-io-ui"
   },
   "engines": {
     "atom": ">0.50.0"
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/cannikin/spacegray-dark-ui/issues"
+    "url": "https://github.com/aesarius/atom-io-ui/issues"
   },
-  "homepage": "https://github.com/cannikin/spacegray-dark-ui"
+  "homepage": "https://github.com/aesarius/atom-io-ui"
 }
